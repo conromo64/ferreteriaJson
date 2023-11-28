@@ -1,0 +1,3 @@
+{"tipoArticulo" : 1,"descripcion"  : "ferreteria"}
+{"tipoArticulo" : 2,"descripcion"  : "herramientas"}
+{"tipoArticulo" : 3,"descripcion"  : "tlapaleria"}

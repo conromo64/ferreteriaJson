@@ -1,0 +1,8 @@
+{"claveArticulo" : 1,"descripcion"  : "1","costo" : 1.0,"precioMayoreo" : 1.0,"precioMenudeo" : 1.0,"existenciaAlmacen" : 1,"existenciaPisoVenta" : 1,"tipArticulo" : 1 }
+{"claveArticulo" : 2,"descripcion"  : "2","costo" : 2.0,"precioMayoreo" : 2.0,"precioMenudeo" : 2.0,"existenciaAlmacen" : 2,"existenciaPisoVenta" : 2,"tipArticulo" : 1}
+{"claveArticulo" : 3,"descripcion"  : "3","costo" : 3.0,"precioMayoreo" : 3.0,"precioMenudeo" : 3.0,"existenciaAlmacen" : 3,"existenciaPisoVenta" : 3,"tipArticulo" : 1}
+{"claveArticulo" : 4,"descripcion"  : "4","costo" : 4.0,"precioMayoreo" : 4.0,"precioMenudeo" : 4.0,"existenciaAlmacen" : 4,"existenciaPisoVenta" : 4,"tipArticulo" : 1}
+{"claveArticulo" : 5,"descripcion"  : "5","costo" : 5.0,"precioMayoreo" : 5.0,"precioMenudeo" : 5.0,"existenciaAlmacen" : 5,"existenciaPisoVenta" : 5,"tipArticulo" : 1}
+{"claveArticulo" : 6,"descripcion"  : "seis","costo" : 6.0,"precioMayoreo" : 6.0,"precioMenudeo" : 6.0,"existenciaAlmacen" : 6,"existenciaPisoVenta" : 6,"tipArticulo" : 1}
+{"claveArticulo" : 7,"descripcion"  : "siete","costo" : 7.0,"precioMayoreo" : 7.0,"precioMenudeo" : 7.0,"existenciaAlmacen" : 7,"existenciaPisoVenta" : 7}
+{"claveArticulo" : 8,"descripcion"  : "nuevo articulo en la lista","costo" : 10.0,"precioMayoreo" : 15.0,"precioMenudeo" : 20.0,"existenciaAlmacen" : 10,"existenciaPisoVenta" : 10,"tipArticulo" : 1}
